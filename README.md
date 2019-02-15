@@ -19,7 +19,7 @@
 - [ ] Manipulate code
 - [ ] Write script
 - [ ] Make video
-- [ ] Fill out form
+- [x] Fill out form
 - [ ] Abstract
 - [ ] Make sure we agree on title
 - [ ] Meet with Kicey later
