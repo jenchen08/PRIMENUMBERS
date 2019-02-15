@@ -23,3 +23,6 @@
 - [ ] Abstract
 - [ ] Make sure we agree on title
 - [ ] Meet with Kicey later
+- [ ] Maybe write a small proof for prime numbers??? (Open ended)
+
+# !!!!!Kicey's Notes given in person!!!!! (IMPORTANT)
