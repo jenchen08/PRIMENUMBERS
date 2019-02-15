@@ -16,7 +16,7 @@
 -------------------------------------------------------------------------------
 
 ###### To-do list:
-- [ ] Minipulate code
+- [ ] Manipulate code
 - [ ] Write script
 - [ ] Make video
 - [ ] Fill out form
