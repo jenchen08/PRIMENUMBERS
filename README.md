@@ -20,8 +20,8 @@
 - [ ] Write script
 - [ ] Make video
 - [x] Fill out form
-- [ ] Abstract
-- [ ] Make sure we agree on title
+- [x] Abstract
+- [x] Make sure we agree on title
 - [ ] Meet with Kicey later
 - [ ] Maybe write a small proof for prime numbers??? (Open ended)
 
