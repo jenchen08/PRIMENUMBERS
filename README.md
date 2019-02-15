@@ -26,3 +26,5 @@
 - [ ] Maybe write a small proof for prime numbers??? (Open ended)
 
 # !!!!!Kicey's Notes given in person!!!!! (IMPORTANT)
+
+**https://www.valdosta.edu/urc/** <-- fill out form and abstract directions
