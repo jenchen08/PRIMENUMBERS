@@ -18,7 +18,7 @@
 ###### To-do list:
 - [x] Manipulate code
 - [x] Write script
-- [ ] Make video
+- [x] Make video
 - [x] Fill out form
 - [x] Abstract
 - [x] Make sure we agree on title
