@@ -22,7 +22,7 @@
 - [x] Fill out form
 - [x] Abstract
 - [x] Make sure we agree on title
-- [ ] Meet with Kicey later
+- [x] Meet with Kicey later
 - [x] Maybe write a small proof for prime numbers??? (Open ended)
 
 # !!!!!Kicey's Notes given in person!!!!! (IMPORTANT)
