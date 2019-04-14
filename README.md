@@ -31,4 +31,4 @@
 
 # https://youtu.be/fRZqho5rpa8 <-- Prime video
 
-# Twin Prime Conjecture: file:///Users/jennychen/Downloads/proofofthetwinprimeconjecture.pdf
+
